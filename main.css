@@ -5,7 +5,7 @@ body {
 }
 
 #title {
-  color: #327da8;
+  color: #3399ff;
   font-size: 60px;
 }
 
@@ -15,5 +15,10 @@ body {
 
 a {
   color: inherit;
+  border-bottom: 1px dashed #3399ff;
   -webkit-transition: color 0.3s;
+}
+
+a:hover {
+    color: #3399ff;
 }
