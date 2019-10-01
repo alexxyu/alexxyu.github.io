@@ -4,3 +4,8 @@ body {
   font-size: 14px;
   font-weight: 400;
 }
+
+#title {
+  color: #327da8;
+  font-size: 40;
+}
