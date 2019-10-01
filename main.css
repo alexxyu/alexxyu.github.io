@@ -1,11 +1,19 @@
 body {
   text-align: center;
   font: Tahoma, Geneva, sans-serif;
-  font-size: 14px;
   font-weight: 400;
 }
 
 #title {
   color: #327da8;
   font-size: 40px;
+}
+
+#about {
+  font-size: 14px;
+}
+
+a {
+  color: inherit;
+  -webkit-transition: 0.3s;
 }
