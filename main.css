@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  font-family: Tahoma, Geneva, sans-serif;
+  font-family: Karla, Tahoma, Geneva, sans-serif;
   font-weight: 400;
 }
 
@@ -15,5 +15,5 @@ body {
 
 a {
   color: inherit;
-  -webkit-transition: 0.3s;
+  -webkit-transition: color 0.3s;
 }
