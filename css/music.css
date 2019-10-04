@@ -8,7 +8,7 @@ p {
   max-width: 800;
   text-align: center;
   margin: auto;
-  padding-top: 20px;
+  padding-top: 15px;
 }
 
 .title {
@@ -38,7 +38,7 @@ li {
 details {
   padding: 10px;
   display: block;
-  max-width: 600;
+  max-width: 60%;
   margin: auto;
   margin-bottom: 2px;
   border: 1px solid #aaa;
