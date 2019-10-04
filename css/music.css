@@ -5,7 +5,7 @@ body {
 }
 
 p {
-  max-width: 80%;
+  max-width: 800;
   text-align: center;
   margin: auto;
   padding-top: 40px;
@@ -38,7 +38,7 @@ li {
 details {
   padding: 10px;
   display: block;
-  max-width: 90%;
+  max-width: 800;
   margin: auto;
   margin-bottom: 2px;
   border: 1px solid #aaa;
