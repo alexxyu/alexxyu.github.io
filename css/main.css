@@ -8,7 +8,7 @@ body {
   padding: 15%;
 }
 
-#title {
+.title {
   color: #3399ff;
   font-family: 'Book Antiqua', 'Goudy Old Style', serif;
   font-size: 60px;
@@ -17,15 +17,15 @@ body {
   -webkit-transition: color 0.3s;
 }
 
-#title:hover {
+.title:hover {
   color: #f2a900;
 }
 
-#about {
+.about {
   font-size: 15px;
 }
 
-#bottom {
+.bottom {
   position: absolute;
   bottom: 5%;
   right: 5%;
