@@ -2,42 +2,21 @@ html {
   overflow-y: scroll;
 }
 
-#content {
-  font-family: Karla, Tahoma, Geneva, sans-serif;
-  font-weight: 400;  
-  line-height: 1.5;
-}
-
 #title {
-  color: #3399ff;
-  font-family: 'Book Antiqua', 'Goudy Old Style', serif;
-  font-size: 60px;
-  font-weight: 800;
   padding: 50px;
-  text-align: center;
-}
-
-#about {
-  font-size: 15px;
-}
-
-#about-blurb {
-  text-align: center;
-  margin: auto;
-  max-width: 60%;
-  word-wrap: break-word;
-  padding-bottom: 20px;
 }
 
 iframe {
+  width: 700px; 
+  height: 394px;
   margin: auto;
-  padding: 10px;
   display: block;
 }
 
 #list {
   padding-top: 20px;
   padding-bottom: 50px;
+  text-align: left;
 }
 
 summary {
