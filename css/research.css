@@ -22,6 +22,10 @@
   align-items: center;
 }
 
+.highlighted {
+  border: 3px solid goldenrod;
+}
+
 .grid-item:hover > .overlay {
   width: 100%;
   height: 100%;
