@@ -62,7 +62,7 @@
 .research-desc {
   padding: 20px;
   color: white;
-  font: 100 20px helvetica;
+  font: 100 1.6vw helvetica;
 }
 
 body:not(.loaded) #slider img {
