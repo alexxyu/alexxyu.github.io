@@ -22,8 +22,12 @@
   align-items: center;
 }
 
-.highlighted {
-  border: 3px solid goldenrod;
+.highlighted-golden {
+  border: 3px solid #ffd100;
+}
+
+.highlighted-blue {
+  border: 3px solid #2774ae;
 }
 
 .grid-item:hover > .overlay {
